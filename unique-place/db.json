@@ -1,0 +1,21 @@
+{
+  "userDetails": [
+    {
+      "id": 1,
+      "name": "",
+      "email": "",
+      "address": "",
+      "contact": "",
+      "other": ""
+    }
+  ],
+  "userName": [
+    {
+      "id": 1,
+      "user_name": "",
+      "password": "",
+      "email": ""
+    }
+  ],
+  "products": []
+}
