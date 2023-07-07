@@ -2,6 +2,7 @@ import {
   AUTH_POST_FAILURE,
   AUTH_POST_REQUEST,
   AUTH_POST_SUCCESS,
+  LOG_OUT,
 } from "./ActionType";
 
 const InitialState = {
@@ -31,7 +32,16 @@ const Reducer = (state = InitialState, { type, payload }) => {
         isError: true,
         isAuth: false,
       };
-    default: return state;
+    case LOG_OUT:
+      return {
+        ...state,
+        isLoading: false,
+        token: "",
+        isError: false,
+        isAuth: false,
+      };
+    default:
+      return state;
   }
 };
 

@@ -17,5 +17,91 @@
       "email": ""
     }
   ],
-  "products": []
+  "products": [
+    {
+      "name": "Shirt",
+      "image": "https://cdn.shopify.com/s/files/1/0552/2853/0855/products/CLQ_8688copy_360x.jpg?v=1659782307",
+      "description": "COTTON BLEND BLACK FORMAL SLIM FIT SOLID SHIRT",
+      "price": 1078,
+      "rating": 5,
+      "brand": "Killer",
+      "color": "black",
+      "gender": "male",
+      "category": "topwear",
+      "id": 2
+    },
+    {
+      "name": "Blazer",
+      "image": "https://cdn.shopify.com/s/files/1/0486/0634/7416/products/DR682BLAC_M1_400x.jpg?v=1644499987",
+      "description": "This black blazer dress has a lapel collar. This woven knee-length dress has pockets and long sleeves. Made from Polyester Lycra, it is soft and comfortable to wear.",
+      "price": 3200,
+      "rating": 4,
+      "brand": "Simple",
+      "color": "black",
+      "gender": "female",
+      "category": "topwear",
+      "id": 3
+    },
+    {
+      "name": "Floral Print Cotton Top - Brown",
+      "image": "https://cdn.shopify.com/s/files/1/0582/2270/6885/products/Powersutracatalgue97_400x.jpg?v=1632732927",
+      "description": "This brown floral print cotton top has soothing print and breathable fabric, which is apt for summers.",
+      "price": 1149,
+      "rating": 6,
+      "brand": "No Brand",
+      "color": "white",
+      "gender": "female",
+      "category": "topwear",
+      "id": 4
+    },
+    {
+      "name": " Straight Skirt",
+      "image": "https://cdn.shopify.com/s/files/1/0582/2270/6885/products/1_3a80ed83-977f-4e61-a4d4-62f91f625ef3_400x.jpg?v=1632733985",
+      "description": "Poly Cotton Straight Skirt - Chocolate Brown",
+      "price": 999,
+      "rating": 6,
+      "brand": " SNITCH",
+      "color": "black",
+      "gender": "female",
+      "category": "bottonwear",
+      "id": 6
+    },
+    {
+      "name": "Girl's Lehenga Choli and dupatta",
+      "image": "https://m.media-amazon.com/images/I/61mw7cmrpCL._UY741_.jpg",
+      "description": "No Description",
+      "price": 2000,
+      "rating": 7,
+      "brand": "ASIAN",
+      "color": "green",
+      "gender": "kids",
+      "category": "topwear",
+      "id": 7
+    },
+    {
+      "name": "Shirt",
+      "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Lazar_Oct19858.jpg?v=1668525649",
+      "description": "SIDE PATCH POCKET BLUE SHIRT",
+      "price": 1250,
+      "rating": 6,
+      "brand": "TED",
+      "color": "black",
+      "gender": "female",
+      "category": "topwear",
+      "id": 8
+    },
+    {
+      "name": "Blazer",
+      "image": "https://cdn.shopify.com/s/files/1/0486/0634/7416/products/DR682BLAC_M1_400x.jpg?v=1644499987",
+      "description": "SIDE PATCH POCKET BLUE SHIRT",
+      "price": 3456,
+      "rating": 5,
+      "brand": "Simple",
+      "color": "black",
+      "gender": "female",
+      "category": "bottonwear",
+      "id": 9
+    }
+  ],
+  "cart": []
 }
