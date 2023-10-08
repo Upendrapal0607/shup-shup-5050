@@ -5,7 +5,7 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { Deleteproductsuccesfull } from "../Redux/ProductReducer/Action";
 import axios from "axios";
-import { legacy_createStore } from "redux";
+// import { legacy_createStore } from "redux";
 const ProductCard = ({
   id,
   image,

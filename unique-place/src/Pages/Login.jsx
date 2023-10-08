@@ -15,7 +15,7 @@ const Login = () => {
   const data = useSelector((store) => store.AuthReducer);
   const location = useLocation();
   const navigate = useNavigate();
-  console.log("Login", location);
+  // console.log("Login", location);
   const [email, setEmail] = useState("eve.holt@reqres.in");
   const [password, setPassword] = useState("cityslicka");
 
@@ -26,7 +26,10 @@ const Login = () => {
       password,
     };
     dispatch(GetAuthntication(newObj)).then((res) => {
-      navigate(location.state);
+      if(location.state) {
+        navigate(location.state);
+      }
+      else  navigate("/");
     });
     setEmail("");
     setPassword("");

@@ -101,6 +101,18 @@
       "gender": "female",
       "category": "bottonwear",
       "id": 9
+    },
+    {
+      "name": "Shirt",
+      "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Lazar_Oct19858.jpg?v=1668525649",
+      "description": "PATCH WORK DARK BLUE DENIM SHIRT",
+      "price": 2525,
+      "rating": 4,
+      "brand": " SNITCH",
+      "color": "blue",
+      "gender": "male",
+      "category": "bottonwear",
+      "id": 10
     }
   ],
   "cart": []
